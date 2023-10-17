@@ -1,6 +1,5 @@
-# isat-phase-one
-Assembly Tree Generation
-
+# ISAM-ORASP-dev
+Please note that this is LIVE DEVELOPMENT repo and [stable version of this Assembly Planning code is available here](https://github.com/labicon/ORASP-Code).
 
 # Quick Note
 You can recreate the python environment used to run these files via:
